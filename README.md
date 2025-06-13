@@ -51,7 +51,7 @@ Git • Docker • VS Code • Linux (WSL / Ubuntu) • REST APIs • Postman
 
 ### 🤝 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/kai-mach) *(drop me your profile link!)*
+- 🌐 [LinkedIn](https://www.linkedin.com/kai-mach)
 - 📬 Email: *abhishek.aimac@gmail.com*
 - 🗂️ Portfolio: *https://www.linkedin.com/in/kai-mach/*
 
